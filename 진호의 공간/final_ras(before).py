@@ -9,18 +9,16 @@ final = final.merge(
 )
 bm_ras = ['BMMTR1','BMMTR2','BMMTR3','BMMTR4','BMMTR5','BMMTR6']
 
-
-is_unusable = final[bm_ras].isna() | (final[bm_ras] == 'Failure')
-has_unusable = is_unusable.any(axis=1)
-
-has_mutant = (final[bm_ras] == 'Mutant').any(axis=1)
+has_failure = (final[bm_ras] == 'Failure').any(axis=1)
+has_mutant  = (final[bm_ras] == 'Mutant').any(axis=1)
 
 final['RAS_status'] = 'Wild-type'
-final.loc[has_unusable, 'RAS_status'] = None
 final.loc[has_mutant,  'RAS_status'] = 'Mutant'
+final.loc[has_failure, 'RAS_status'] = None
+
 
 final_ras = final[final['RAS_status'].notna()].copy()
-final_ras['RAS_bin'] = (final_ras['RAS_status'] == 'Mutant').astype(int)
+final_ras['RAS_bin'] = (final_ras['RAS_status'] == 'Wild-type').astype(int)
 final_ras['TRT_bin'] = (final_ras['TRT'].str.contains('panit')).astype(int)
 
-final_ras.to_csv("../csv_file/final_ras.csv", index=False)
+final_ras.to_csv("../csv_file/final_ras(before).csv", index=False)

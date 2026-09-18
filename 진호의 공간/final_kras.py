@@ -11,7 +11,7 @@ final = final.merge(
 )
 
 final_kras = final[final['BMMTR1'] != 'Failure'].copy()
-final_kras['KRAS_bin'] = (final_kras['BMMTR1'] == 'Wild-type').astype(int)
+final_kras['KRAS_bin'] = (final_kras['BMMTR1'] == 'Mutant').astype(int)
 final_kras['TRT_bin'] = (final_kras['TRT'].str.contains('panit')).astype(int)
 
 print(final_kras)
