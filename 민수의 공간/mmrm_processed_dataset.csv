@@ -1,0 +1,286 @@
+﻿SUBJID,VISIT,SLD,VISITDY,BASE,CHG,TRT,AGE,SEX,B_ECOG
+1,Week 8,212.0,50.0,240.0,-28.0,panit. plus best supportive care,68,Male,Symptoms but ambulatory
+1,Week 12,210.0,85.0,240.0,-30.0,panit. plus best supportive care,68,Male,Symptoms but ambulatory
+1,Week 16,219.0,112.0,240.0,-21.0,panit. plus best supportive care,68,Male,Symptoms but ambulatory
+1,Week 24,269.0,163.0,240.0,29.0,panit. plus best supportive care,68,Male,Symptoms but ambulatory
+10,Week 8,189.0,54.0,153.0,36.0,panit. plus best supportive care,52,Female,Symptoms but ambulatory
+10,Week 12,201.0,82.0,153.0,48.0,panit. plus best supportive care,52,Female,Symptoms but ambulatory
+10,Week 16,210.0,110.0,153.0,57.0,panit. plus best supportive care,52,Female,Symptoms but ambulatory
+11,Week 8,184.0,60.0,150.0,34.0,Best supportive care,75,Male,Symptoms but ambulatory
+11,Week 12,192.0,88.0,150.0,42.0,Best supportive care,75,Male,Symptoms but ambulatory
+13,Week 8,168.0,50.0,186.0,-18.0,panit. plus best supportive care,66,Male,In bed less than 50% of the time
+13,Week 12,151.0,87.0,186.0,-35.0,panit. plus best supportive care,66,Male,In bed less than 50% of the time
+13,Week 16,153.0,115.0,186.0,-33.0,panit. plus best supportive care,66,Male,In bed less than 50% of the time
+13,Week 24,159.0,171.0,186.0,-27.0,panit. plus best supportive care,66,Male,In bed less than 50% of the time
+13,Week 32,185.0,213.0,186.0,-1.0,panit. plus best supportive care,66,Male,In bed less than 50% of the time
+18,Week 8,165.0,57.0,111.0,54.0,Best supportive care,63,Male,Fully active
+21,Week 8,161.0,53.0,299.0,-138.0,panit. plus best supportive care,63,Male,Symptoms but ambulatory
+21,Week 12,153.0,81.0,299.0,-146.0,panit. plus best supportive care,63,Male,Symptoms but ambulatory
+21,Week 16,145.0,109.0,299.0,-154.0,panit. plus best supportive care,63,Male,Symptoms but ambulatory
+21,Week 24,203.0,165.0,299.0,-96.0,panit. plus best supportive care,63,Male,Symptoms but ambulatory
+22,Week 8,183.0,62.0,180.0,3.0,Best supportive care,74,Male,In bed less than 50% of the time
+25,Week 8,166.0,58.0,124.0,42.0,Best supportive care,60,Female,Symptoms but ambulatory
+26,Week 8,51.0,55.0,43.0,8.0,Best supportive care,51,Female,Fully active
+26,Week 12,52.0,90.0,43.0,9.0,Best supportive care,51,Female,Fully active
+28,Week 8,148.0,56.0,146.0,2.0,Best supportive care,57,Male,Symptoms but ambulatory
+28,Week 12,169.0,85.0,146.0,23.0,Best supportive care,57,Male,Symptoms but ambulatory
+28,Week 16,164.0,113.0,146.0,18.0,Best supportive care,57,Male,Symptoms but ambulatory
+28,Week 24,162.0,168.0,146.0,16.0,Best supportive care,57,Male,Symptoms but ambulatory
+29,Week 8,45.0,57.0,31.0,14.0,Best supportive care,53,Female,Symptoms but ambulatory
+30,Week 8,481.0,63.0,417.0,64.0,Best supportive care,72,Female,Fully active
+31,Week 8,308.0,51.0,231.0,77.0,Best supportive care,62,Female,Symptoms but ambulatory
+34,Week 8,0.0,51.0,352.0,-352.0,panit. plus best supportive care,72,Female,Symptoms but ambulatory
+36,Week 8,66.0,55.0,62.0,4.0,Best supportive care,83,Male,Fully active
+36,Week 12,65.0,89.0,62.0,3.0,Best supportive care,83,Male,Fully active
+37,Week 8,108.0,51.0,98.0,10.0,Best supportive care,74,Male,Fully active
+38,Week 8,150.0,52.0,268.0,-118.0,panit. plus best supportive care,77,Male,In bed less than 50% of the time
+38,Week 12,174.0,82.0,268.0,-94.0,panit. plus best supportive care,77,Male,In bed less than 50% of the time
+38,Week 16,162.0,107.0,268.0,-106.0,panit. plus best supportive care,77,Male,In bed less than 50% of the time
+41,Week 8,363.0,51.0,311.0,52.0,Best supportive care,59,Male,Symptoms but ambulatory
+42,Week 8,220.0,49.0,169.0,51.0,Best supportive care,62,Male,Fully active
+44,Week 8,262.0,50.0,205.0,57.0,panit. plus best supportive care,69,Male,Fully active
+45,Week 8,76.0,56.0,100.0,-24.0,panit. plus best supportive care,60,Male,Fully active
+45,Week 12,60.0,84.0,100.0,-40.0,panit. plus best supportive care,60,Male,Fully active
+45,Week 16,60.0,112.0,100.0,-40.0,panit. plus best supportive care,60,Male,Fully active
+45,Week 24,80.0,168.0,100.0,-20.0,panit. plus best supportive care,60,Male,Fully active
+45,Week 32,128.0,224.0,100.0,28.0,panit. plus best supportive care,60,Male,Fully active
+48,Week 8,269.0,56.0,246.0,23.0,panit. plus best supportive care,65,Male,Symptoms but ambulatory
+48,Week 12,312.0,87.0,246.0,66.0,panit. plus best supportive care,65,Male,Symptoms but ambulatory
+51,Week 8,418.0,53.0,333.0,85.0,Best supportive care,56,Male,Symptoms but ambulatory
+57,Week 8,269.0,53.0,158.0,111.0,panit. plus best supportive care,62,Female,Fully active
+59,Week 8,201.0,51.0,120.0,81.0,Best supportive care,62,Male,Fully active
+64,Week 8,211.0,42.0,181.0,30.0,panit. plus best supportive care,64,Male,In bed less than 50% of the time
+65,Week 8,214.0,60.0,166.0,48.0,panit. plus best supportive care,51,Male,Symptoms but ambulatory
+72,Week 8,224.0,56.0,159.0,65.0,Best supportive care,62,Male,Fully active
+73,Week 8,581.0,50.0,441.0,140.0,Best supportive care,63,Female,Symptoms but ambulatory
+75,Week 8,205.0,63.0,112.0,93.0,Best supportive care,62,Female,Fully active
+78,Week 8,342.0,50.0,284.0,58.0,Best supportive care,63,Male,Fully active
+79,Week 8,54.0,52.0,47.0,7.0,panit. plus best supportive care,65,Male,Fully active
+79,Week 12,54.0,84.0,47.0,7.0,panit. plus best supportive care,65,Male,Fully active
+90,Week 8,184.0,57.0,120.0,64.0,panit. plus best supportive care,27,Male,Fully active
+91,Week 8,154.0,53.0,108.0,46.0,Best supportive care,54,Male,Symptoms but ambulatory
+92,Week 8,53.0,57.0,57.0,-4.0,panit. plus best supportive care,55,Male,Symptoms but ambulatory
+92,Week 12,54.0,85.0,57.0,-3.0,panit. plus best supportive care,55,Male,Symptoms but ambulatory
+92,Week 16,56.0,113.0,57.0,-1.0,panit. plus best supportive care,55,Male,Symptoms but ambulatory
+96,Week 8,219.0,56.0,204.0,15.0,panit. plus best supportive care,63,Male,In bed less than 50% of the time
+97,Week 8,358.0,57.0,245.0,113.0,Best supportive care,57,Male,Fully active
+101,Week 8,103.0,55.0,85.0,18.0,panit. plus best supportive care,73,Female,Fully active
+103,Week 8,393.0,58.0,253.0,140.0,Best supportive care,52,Male,Fully active
+106,Week 8,178.0,48.0,163.0,15.0,panit. plus best supportive care,65,Female,Fully active
+114,Week 8,256.0,53.0,288.0,-32.0,panit. plus best supportive care,47,Male,Symptoms but ambulatory
+116,Week 8,502.0,66.0,427.0,75.0,panit. plus best supportive care,57,Male,Symptoms but ambulatory
+121,Week 8,289.0,51.0,260.0,29.0,panit. plus best supportive care,56,Female,Symptoms but ambulatory
+122,Week 12,41.0,82.0,37.0,4.0,Best supportive care,63,Male,Symptoms but ambulatory
+123,Week 8,165.0,54.0,153.0,12.0,Best supportive care,53,Male,Fully active
+128,Week 8,373.0,52.0,257.0,116.0,Best supportive care,64,Male,Fully active
+130,Week 8,370.0,51.0,288.0,82.0,panit. plus best supportive care,68,Female,Fully active
+132,Week 8,51.0,53.0,76.0,-25.0,panit. plus best supportive care,53,Female,Symptoms but ambulatory
+132,Week 12,46.0,81.0,76.0,-30.0,panit. plus best supportive care,53,Female,Symptoms but ambulatory
+132,Week 16,54.0,108.0,76.0,-22.0,panit. plus best supportive care,53,Female,Symptoms but ambulatory
+132,Week 24,78.0,161.0,76.0,2.0,panit. plus best supportive care,53,Female,Symptoms but ambulatory
+133,Week 8,299.0,58.0,245.0,54.0,Best supportive care,69,Female,Symptoms but ambulatory
+142,Week 8,85.0,57.0,74.0,11.0,panit. plus best supportive care,69,Male,Symptoms but ambulatory
+142,Week 12,97.0,91.0,74.0,23.0,panit. plus best supportive care,69,Male,Symptoms but ambulatory
+143,Week 8,264.0,53.2,210.0,54.0,panit. plus best supportive care,72,Female,Fully active
+144,Week 8,97.0,56.333333333333336,73.0,24.0,Best supportive care,70,Male,Fully active
+146,Week 8,55.0,57.0,95.0,-40.0,panit. plus best supportive care,65,Male,Fully active
+146,Week 12,45.0,85.0,95.0,-50.0,panit. plus best supportive care,65,Male,Fully active
+146,Week 24,43.0,169.0,95.0,-52.0,panit. plus best supportive care,65,Male,Fully active
+146,Week 32,42.0,225.0,95.0,-53.0,panit. plus best supportive care,65,Male,Fully active
+146,Week 40,24.0,281.0,95.0,-71.0,panit. plus best supportive care,65,Male,Fully active
+146,Week 48,107.0,351.0,95.0,12.0,panit. plus best supportive care,65,Male,Fully active
+146,Week 60,152.0,435.0,95.0,57.0,panit. plus best supportive care,65,Male,Fully active
+147,Week 8,332.0,56.0,267.0,65.0,Best supportive care,69,Male,Fully active
+150,Week 8,396.0,56.0,375.0,21.0,panit. plus best supportive care,64,Male,Fully active
+150,Week 12,439.0,94.0,375.0,64.0,panit. plus best supportive care,64,Male,Fully active
+151,Week 8,77.0,57.0,44.0,33.0,panit. plus best supportive care,74,Male,Symptoms but ambulatory
+152,Week 8,606.0,43.0,472.0,134.0,Best supportive care,71,Male,Symptoms but ambulatory
+158,Week 8,722.0,57.0,550.0,172.0,panit. plus best supportive care,51,Female,In bed less than 50% of the time
+161,Week 8,405.0,50.0,321.0,84.0,panit. plus best supportive care,45,Female,Symptoms but ambulatory
+163,Week 8,110.0,51.0,95.0,15.0,panit. plus best supportive care,53,Male,Fully active
+166,Week 8,295.0,51.0,245.0,50.0,Best supportive care,66,Female,Symptoms but ambulatory
+167,Week 8,336.0,49.57142857142857,218.0,118.0,panit. plus best supportive care,74,Male,Fully active
+173,Week 8,187.0,57.0,153.0,34.0,panit. plus best supportive care,67,Female,Fully active
+176,Week 8,110.0,40.0,88.0,22.0,panit. plus best supportive care,67,Male,Fully active
+180,Week 8,276.0,55.0,239.0,37.0,Best supportive care,49,Male,Symptoms but ambulatory
+182,Week 8,37.0,54.0,40.0,-3.0,panit. plus best supportive care,70,Male,Fully active
+182,Week 12,38.0,86.0,40.0,-2.0,panit. plus best supportive care,70,Male,Fully active
+182,Week 16,34.0,108.0,40.0,-6.0,panit. plus best supportive care,70,Male,Fully active
+182,Week 24,46.0,164.0,40.0,6.0,panit. plus best supportive care,70,Male,Fully active
+187,Week 8,680.0,35.0,605.0,75.0,panit. plus best supportive care,43,Male,Symptoms but ambulatory
+188,Week 8,179.0,57.0,74.0,105.0,panit. plus best supportive care,61,Male,Fully active
+191,Week 8,282.0,53.0,182.0,100.0,Best supportive care,71,Female,Symptoms but ambulatory
+192,Week 8,90.0,53.0,73.0,17.0,Best supportive care,71,Female,Symptoms but ambulatory
+195,Week 8,582.0,49.0,476.0,106.0,panit. plus best supportive care,45,Male,In bed less than 50% of the time
+198,Week 8,119.0,55.0,103.0,16.0,panit. plus best supportive care,58,Male,Symptoms but ambulatory
+198,Week 12,133.0,84.0,103.0,30.0,panit. plus best supportive care,58,Male,Symptoms but ambulatory
+198,Week 16,150.0,111.0,103.0,47.0,panit. plus best supportive care,58,Male,Symptoms but ambulatory
+201,Week 8,40.0,52.0,67.0,-27.0,panit. plus best supportive care,62,Male,Symptoms but ambulatory
+201,Week 12,35.0,81.0,67.0,-32.0,panit. plus best supportive care,62,Male,Symptoms but ambulatory
+201,Week 16,33.0,108.0,67.0,-34.0,panit. plus best supportive care,62,Male,Symptoms but ambulatory
+202,Week 8,106.0,57.0,142.0,-36.0,panit. plus best supportive care,78,Female,Fully active
+202,Week 12,115.0,82.0,142.0,-27.0,panit. plus best supportive care,78,Female,Fully active
+202,Week 16,106.0,110.0,142.0,-36.0,panit. plus best supportive care,78,Female,Fully active
+202,Week 24,113.0,166.0,142.0,-29.0,panit. plus best supportive care,78,Female,Fully active
+203,Week 8,203.0,61.0,172.0,31.0,panit. plus best supportive care,74,Male,Symptoms but ambulatory
+203,Week 12,220.0,89.0,172.0,48.0,panit. plus best supportive care,74,Male,Symptoms but ambulatory
+204,Week 8,245.0,49.0,176.0,69.0,Best supportive care,49,Male,Symptoms but ambulatory
+206,Week 8,324.0,50.0,222.0,102.0,Best supportive care,47,Female,Symptoms but ambulatory
+207,Week 8,109.0,60.0,73.0,36.0,Best supportive care,74,Male,Symptoms but ambulatory
+208,Week 8,42.0,49.0,43.0,-1.0,panit. plus best supportive care,64,Male,In bed less than 50% of the time
+208,Week 12,34.0,72.0,43.0,-9.0,panit. plus best supportive care,64,Male,In bed less than 50% of the time
+210,Week 8,159.0,56.0,125.0,34.0,panit. plus best supportive care,52,Male,Symptoms but ambulatory
+210,Week 12,179.0,85.0,125.0,54.0,panit. plus best supportive care,52,Male,Symptoms but ambulatory
+221,Week 8,64.0,51.0,55.0,9.0,panit. plus best supportive care,52,Male,Fully active
+223,Week 8,88.0,53.0,57.0,31.0,panit. plus best supportive care,63,Male,Fully active
+225,Week 8,221.0,58.0,179.0,42.0,Best supportive care,69,Female,Fully active
+226,Week 8,137.0,58.0,90.0,47.0,Best supportive care,49,Female,Symptoms but ambulatory
+230,Week 8,537.0,65.0,436.0,101.0,panit. plus best supportive care,41,Female,Fully active
+230,Week 12,589.0,93.0,436.0,153.0,panit. plus best supportive care,41,Female,Fully active
+231,Week 8,176.0,47.0,130.0,46.0,panit. plus best supportive care,67,Male,Symptoms but ambulatory
+236,Week 8,72.0,62.0,118.0,-46.0,panit. plus best supportive care,72,Female,Symptoms but ambulatory
+236,Week 12,69.0,85.0,118.0,-49.0,panit. plus best supportive care,72,Female,Symptoms but ambulatory
+236,Week 16,60.0,113.0,118.0,-58.0,panit. plus best supportive care,72,Female,Symptoms but ambulatory
+236,Week 24,76.0,169.0,118.0,-42.0,panit. plus best supportive care,72,Female,Symptoms but ambulatory
+237,Week 8,54.0,56.0,58.0,-4.0,panit. plus best supportive care,57,Female,Symptoms but ambulatory
+238,Week 8,181.0,50.0,210.0,-29.0,panit. plus best supportive care,68,Male,Symptoms but ambulatory
+242,Week 8,244.0,52.0,222.0,22.0,Best supportive care,64,Male,Fully active
+245,Week 8,196.0,60.0,149.0,47.0,Best supportive care,57,Male,Fully active
+246,Week 8,284.0,51.0,206.0,78.0,panit. plus best supportive care,65,Female,Symptoms but ambulatory
+247,Week 8,202.0,50.0,192.0,10.0,panit. plus best supportive care,57,Male,Fully active
+247,Week 12,190.0,87.0,192.0,-2.0,panit. plus best supportive care,57,Male,Fully active
+248,Week 8,72.0,51.0,60.0,12.0,panit. plus best supportive care,66,Male,Symptoms but ambulatory
+250,Week 8,104.0,60.0,77.0,27.0,Best supportive care,60,Female,Symptoms but ambulatory
+255,Week 8,350.0,57.0,350.0,0.0,panit. plus best supportive care,66,Female,In bed less than 50% of the time
+255,Week 12,371.0,81.0,350.0,21.0,panit. plus best supportive care,66,Female,In bed less than 50% of the time
+255,Week 16,345.0,115.0,350.0,-5.0,panit. plus best supportive care,66,Female,In bed less than 50% of the time
+255,Week 24,349.0,149.0,350.0,-1.0,panit. plus best supportive care,66,Female,In bed less than 50% of the time
+256,Week 8,355.0,38.0,292.0,63.0,Best supportive care,64,Male,Symptoms but ambulatory
+258,Week 8,315.0,52.0,177.0,138.0,panit. plus best supportive care,64,Female,Symptoms but ambulatory
+262,Week 8,210.0,45.0,150.0,60.0,panit. plus best supportive care,51,Male,Fully active
+263,Week 8,301.0,46.0,238.0,63.0,panit. plus best supportive care,59,Female,Symptoms but ambulatory
+266,Week 8,206.0,57.0,180.0,26.0,panit. plus best supportive care,57,Female,Symptoms but ambulatory
+271,Week 8,61.0,75.0,148.0,-87.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 12,66.0,102.0,148.0,-82.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 16,58.0,131.0,148.0,-90.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 24,58.0,190.0,148.0,-90.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 32,54.0,246.0,148.0,-94.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 40,52.0,302.0,148.0,-96.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 48,58.0,358.0,148.0,-90.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 60,46.0,450.0,148.0,-102.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 72,44.0,533.0,148.0,-104.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 84,46.0,612.0,148.0,-102.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 96,40.0,696.0,148.0,-108.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 108,33.0,796.0,148.0,-115.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 120,35.0,878.0,148.0,-113.0,panit. plus best supportive care,42,Male,Fully active
+271,Week 132,38.0,957.0,148.0,-110.0,panit. plus best supportive care,42,Male,Fully active
+272,Week 8,147.0,54.0,104.0,43.0,Best supportive care,67,Male,In bed less than 50% of the time
+278,Week 8,291.0,51.0,209.0,82.0,panit. plus best supportive care,79,Male,Symptoms but ambulatory
+280,Week 8,176.0,51.0,220.0,-44.0,panit. plus best supportive care,63,Male,Fully active
+280,Week 12,156.0,76.5,220.0,-64.0,panit. plus best supportive care,63,Male,Fully active
+280,Week 16,149.0,107.0,220.0,-71.0,panit. plus best supportive care,63,Male,Fully active
+280,Week 24,125.0,167.0,220.0,-95.0,panit. plus best supportive care,63,Male,Fully active
+280,Week 32,117.0,219.0,220.0,-103.0,panit. plus best supportive care,63,Male,Fully active
+284,Week 8,462.0,53.0,352.0,110.0,panit. plus best supportive care,68,Male,Fully active
+286,Week 8,258.0,54.0,233.0,25.0,panit. plus best supportive care,61,Female,Fully active
+287,Week 8,134.0,55.0,115.0,19.0,Best supportive care,71,Female,Fully active
+287,Week 12,142.0,84.0,115.0,27.0,Best supportive care,71,Female,Fully active
+287,Week 16,150.0,110.0,115.0,35.0,Best supportive care,71,Female,Fully active
+287,Week 24,147.0,166.0,115.0,32.0,Best supportive care,71,Female,Fully active
+287,Week 32,163.0,223.0,115.0,48.0,Best supportive care,71,Female,Fully active
+289,Week 8,216.0,57.0,179.0,37.0,Best supportive care,66,Male,Symptoms but ambulatory
+292,Week 8,66.0,51.0,75.0,-9.0,panit. plus best supportive care,64,Female,Fully active
+292,Week 12,63.0,79.0,75.0,-12.0,panit. plus best supportive care,64,Female,Fully active
+292,Week 16,67.0,107.0,75.0,-8.0,panit. plus best supportive care,64,Female,Fully active
+296,Week 8,378.0,47.0,279.0,99.0,panit. plus best supportive care,54,Male,Symptoms but ambulatory
+298,Week 8,59.0,44.5,53.0,6.0,panit. plus best supportive care,79,Male,In bed less than 50% of the time
+299,Week 8,283.0,59.0,252.0,31.0,Best supportive care,81,Female,Symptoms but ambulatory
+300,Week 8,328.0,57.0,289.0,39.0,panit. plus best supportive care,77,Male,Fully active
+300,Week 12,405.0,85.0,289.0,116.0,panit. plus best supportive care,77,Male,Fully active
+304,Week 8,297.0,56.0,275.0,22.0,panit. plus best supportive care,73,Male,Symptoms but ambulatory
+304,Week 16,296.0,113.0,275.0,21.0,panit. plus best supportive care,73,Male,Symptoms but ambulatory
+305,Week 8,232.0,48.0,171.0,61.0,Best supportive care,61,Female,Fully active
+308,Week 8,198.0,57.0,283.0,-85.0,panit. plus best supportive care,66,Male,Symptoms but ambulatory
+308,Week 12,194.0,88.0,283.0,-89.0,panit. plus best supportive care,66,Male,Symptoms but ambulatory
+308,Week 16,195.0,115.0,283.0,-88.0,panit. plus best supportive care,66,Male,Symptoms but ambulatory
+308,Week 24,332.0,175.0,283.0,49.0,panit. plus best supportive care,66,Male,Symptoms but ambulatory
+309,Week 8,31.0,57.0,25.0,6.0,Best supportive care,70,Male,Symptoms but ambulatory
+311,Week 8,52.0,50.0,50.0,2.0,panit. plus best supportive care,60,Female,Fully active
+312,Week 8,323.0,57.0,239.0,84.0,Best supportive care,72,Male,In bed less than 50% of the time
+315,Week 8,149.0,51.0,142.0,7.0,Best supportive care,69,Male,Symptoms but ambulatory
+320,Week 8,578.0,43.0,493.0,85.0,Best supportive care,45,Male,In bed less than 50% of the time
+321,Week 8,0.0,53.0,102.0,-102.0,panit. plus best supportive care,60,Male,Symptoms but ambulatory
+326,Week 8,331.0,54.0,229.0,102.0,Best supportive care,78,Female,In bed less than 50% of the time
+327,Week 8,168.0,61.0,158.0,10.0,panit. plus best supportive care,51,Female,Fully active
+327,Week 12,169.0,89.0,158.0,11.0,panit. plus best supportive care,51,Female,Fully active
+327,Week 16,173.0,117.0,158.0,15.0,panit. plus best supportive care,51,Female,Fully active
+327,Week 24,174.0,173.0,158.0,16.0,panit. plus best supportive care,51,Female,Fully active
+339,Week 8,87.0,53.0,64.0,23.0,panit. plus best supportive care,57,Male,Fully active
+340,Week 8,29.0,54.0,23.0,6.0,Best supportive care,59,Male,Fully active
+341,Week 8,285.0,46.0,185.0,100.0,Best supportive care,56,Male,Fully active
+344,Week 8,380.0,56.0,308.0,72.0,Best supportive care,83,Female,Symptoms but ambulatory
+350,Week 8,19.0,57.0,35.0,-16.0,panit. plus best supportive care,60,Female,Symptoms but ambulatory
+354,Week 8,279.0,51.0,158.0,121.0,Best supportive care,69,Female,Symptoms but ambulatory
+356,Week 8,265.0,58.0,234.0,31.0,panit. plus best supportive care,41,Female,In bed less than 50% of the time
+357,Week 8,26.0,55.0,27.0,-1.0,Best supportive care,64,Female,Fully active
+357,Week 12,26.0,86.0,27.0,-1.0,Best supportive care,64,Female,Fully active
+357,Week 16,26.0,114.0,27.0,-1.0,Best supportive care,64,Female,Fully active
+357,Week 24,24.0,170.0,27.0,-3.0,Best supportive care,64,Female,Fully active
+357,Week 32,24.0,226.0,27.0,-3.0,Best supportive care,64,Female,Fully active
+357,Week 40,26.0,288.0,27.0,-1.0,Best supportive care,64,Female,Fully active
+360,Week 8,311.0,54.0,189.0,122.0,panit. plus best supportive care,64,Male,Symptoms but ambulatory
+362,Week 8,361.0,54.0,279.0,82.0,panit. plus best supportive care,53,Male,Fully active
+363,Week 8,494.0,51.0,471.0,23.0,panit. plus best supportive care,69,Male,Fully active
+370,Week 8,456.0,57.0,264.0,192.0,panit. plus best supportive care,56,Male,Fully active
+372,Week 8,334.0,57.0,215.0,119.0,panit. plus best supportive care,53,Male,Fully active
+373,Week 8,279.0,50.0,215.0,64.0,panit. plus best supportive care,76,Female,Fully active
+375,Week 8,77.0,46.0,92.0,-15.0,panit. plus best supportive care,59,Male,Symptoms but ambulatory
+384,Week 8,414.0,51.0,321.0,93.0,Best supportive care,71,Male,Symptoms but ambulatory
+385,Week 8,508.0,55.0,375.0,133.0,Best supportive care,71,Male,Fully active
+387,Week 8,285.0,53.0,207.0,78.0,Best supportive care,57,Male,Fully active
+389,Week 8,281.0,56.0,296.0,-15.0,panit. plus best supportive care,51,Male,Symptoms but ambulatory
+389,Week 12,267.0,84.0,296.0,-29.0,panit. plus best supportive care,51,Male,Symptoms but ambulatory
+389,Week 16,293.0,112.0,296.0,-3.0,panit. plus best supportive care,51,Male,Symptoms but ambulatory
+389,Week 24,363.0,158.0,296.0,67.0,panit. plus best supportive care,51,Male,Symptoms but ambulatory
+393,Week 8,94.0,51.0,66.0,28.0,Best supportive care,59,Male,Symptoms but ambulatory
+394,Week 8,52.0,51.0,69.0,-17.0,panit. plus best supportive care,52,Male,Symptoms but ambulatory
+394,Week 12,39.0,79.0,69.0,-30.0,panit. plus best supportive care,52,Male,Symptoms but ambulatory
+395,Week 8,263.0,54.0,412.0,-149.0,panit. plus best supportive care,68,Male,Fully active
+395,Week 12,207.0,82.0,412.0,-205.0,panit. plus best supportive care,68,Male,Fully active
+395,Week 16,289.0,113.0,412.0,-123.0,panit. plus best supportive care,68,Male,Fully active
+395,Week 24,346.0,166.0,412.0,-66.0,panit. plus best supportive care,68,Male,Fully active
+396,Week 8,285.0,57.0,335.0,-50.0,panit. plus best supportive care,70,Female,Fully active
+396,Week 12,292.0,78.0,335.0,-43.0,panit. plus best supportive care,70,Female,Fully active
+396,Week 16,299.0,115.0,335.0,-36.0,panit. plus best supportive care,70,Female,Fully active
+396,Week 24,344.0,171.0,335.0,9.0,panit. plus best supportive care,70,Female,Fully active
+396,Week 32,386.0,213.0,335.0,51.0,panit. plus best supportive care,70,Female,Fully active
+397,Week 8,211.0,56.4,193.0,18.0,Best supportive care,73,Male,Fully active
+397,Week 12,207.0,85.2,193.0,14.0,Best supportive care,73,Male,Fully active
+397,Week 16,224.0,113.8,193.0,31.0,Best supportive care,73,Male,Fully active
+398,Week 8,155.0,57.0,133.0,22.0,panit. plus best supportive care,51,Female,Fully active
+398,Week 12,177.0,85.0,133.0,44.0,panit. plus best supportive care,51,Female,Fully active
+400,Week 8,219.0,55.0,153.0,66.0,panit. plus best supportive care,56,Male,Fully active
+407,Week 8,348.0,52.0,327.0,21.0,panit. plus best supportive care,69,Male,Fully active
+409,Week 12,91.0,92.0,132.0,-41.0,panit. plus best supportive care,61,Female,Fully active
+410,Week 8,236.0,56.0,227.0,9.0,panit. plus best supportive care,66,Male,Symptoms but ambulatory
+410,Week 12,306.0,87.0,227.0,79.0,panit. plus best supportive care,66,Male,Symptoms but ambulatory
+419,Week 8,149.0,55.0,129.0,20.0,Best supportive care,74,Female,Symptoms but ambulatory
+423,Week 8,82.0,54.0,44.0,38.0,panit. plus best supportive care,50,Female,Symptoms but ambulatory
+427,Week 8,85.0,57.0,102.0,-17.0,panit. plus best supportive care,65,Male,Fully active
+427,Week 12,91.0,85.0,102.0,-11.0,panit. plus best supportive care,65,Male,Fully active
+427,Week 16,84.0,113.0,102.0,-18.0,panit. plus best supportive care,65,Male,Fully active
+429,Week 8,143.0,54.0,85.0,58.0,panit. plus best supportive care,50,Male,Fully active
+430,Week 8,151.0,51.0,179.0,-28.0,panit. plus best supportive care,70,Female,Symptoms but ambulatory
+430,Week 12,165.0,77.0,179.0,-14.0,panit. plus best supportive care,70,Female,Symptoms but ambulatory
+430,Week 16,181.0,108.0,179.0,2.0,panit. plus best supportive care,70,Female,Symptoms but ambulatory
+436,Week 8,232.0,49.0,192.0,40.0,panit. plus best supportive care,62,Male,Symptoms but ambulatory
+440,Week 8,56.0,51.0,54.0,2.0,panit. plus best supportive care,59,Female,Symptoms but ambulatory
+440,Week 12,91.0,100.0,54.0,37.0,panit. plus best supportive care,59,Female,Symptoms but ambulatory
+443,Week 8,302.0,57.0,175.0,127.0,panit. plus best supportive care,77,Female,Symptoms but ambulatory
+445,Week 8,111.0,49.0,96.0,15.0,Best supportive care,72,Female,Fully active
+451,Week 8,129.0,57.0,97.0,32.0,Best supportive care,79,Male,In bed less than 50% of the time
+457,Week 8,342.0,51.0,279.0,63.0,Best supportive care,74,Female,Symptoms but ambulatory
+458,Week 8,61.0,55.0,57.0,4.0,Best supportive care,71,Female,Symptoms but ambulatory
+459,Week 8,58.0,56.0,50.0,8.0,Best supportive care,32,Female,Fully active
+460,Week 8,598.0,47.0,507.0,91.0,Best supportive care,53,Female,Fully active
+461,Week 8,308.0,54.0,219.0,89.0,panit. plus best supportive care,76,Male,Fully active
