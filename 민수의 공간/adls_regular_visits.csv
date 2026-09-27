@@ -1,0 +1,288 @@
+SUBJID,VISIT,VISITDY,SLD,BASE,CHG,TRT,TRT_bin,KRAS_bin
+10,Week 12,82.0,201.0,153.0,48.0,panit. plus best supportive care,1,1
+10,Week 16,110.0,210.0,153.0,57.0,panit. plus best supportive care,1,1
+10,Week 8,54.0,189.0,153.0,36.0,panit. plus best supportive care,1,1
+11,Week 12,88.0,192.0,150.0,42.0,Best supportive care,0,0
+11,Week 8,60.0,184.0,150.0,34.0,Best supportive care,0,0
+13,Week 12,87.0,151.0,186.0,-35.0,panit. plus best supportive care,1,0
+13,Week 16,115.0,153.0,186.0,-33.0,panit. plus best supportive care,1,0
+13,Week 24,171.0,159.0,186.0,-27.0,panit. plus best supportive care,1,0
+13,Week 32,213.0,185.0,186.0,-1.0,panit. plus best supportive care,1,0
+13,Week 8,50.0,168.0,186.0,-18.0,panit. plus best supportive care,1,0
+18,Week 8,57.0,165.0,111.0,54.0,Best supportive care,0,0
+21,Week 12,81.0,153.0,299.0,-146.0,panit. plus best supportive care,1,0
+21,Week 16,109.0,145.0,299.0,-154.0,panit. plus best supportive care,1,0
+21,Week 24,165.0,203.0,299.0,-96.0,panit. plus best supportive care,1,0
+21,Week 8,53.0,161.0,299.0,-138.0,panit. plus best supportive care,1,0
+22,Week 8,62.0,183.0,180.0,3.0,Best supportive care,0,0
+25,Week 8,58.0,166.0,124.0,42.0,Best supportive care,0,0
+26,Week 12,90.0,52.0,43.0,9.0,Best supportive care,0,0
+26,Week 8,55.0,51.0,43.0,8.0,Best supportive care,0,0
+28,Week 12,85.0,169.0,146.0,23.0,Best supportive care,0,1
+28,Week 16,113.0,164.0,146.0,18.0,Best supportive care,0,1
+28,Week 24,168.0,162.0,146.0,16.0,Best supportive care,0,1
+28,Week 8,56.0,148.0,146.0,2.0,Best supportive care,0,1
+29,Week 8,57.0,45.0,31.0,14.0,Best supportive care,0,1
+30,Week 8,63.0,481.0,417.0,64.0,Best supportive care,0,1
+31,Week 8,51.0,308.0,231.0,77.0,Best supportive care,0,0
+34,Week 8,51.0,,352.0,,panit. plus best supportive care,1,0
+36,Week 12,89.0,65.0,62.0,3.0,Best supportive care,0,1
+36,Week 8,55.0,66.0,62.0,4.0,Best supportive care,0,1
+37,Week 8,51.0,108.0,98.0,10.0,Best supportive care,0,1
+38,Week 12,82.0,174.0,268.0,-94.0,panit. plus best supportive care,1,0
+38,Week 16,107.0,162.0,268.0,-106.0,panit. plus best supportive care,1,0
+38,Week 8,52.0,150.0,268.0,-118.0,panit. plus best supportive care,1,0
+41,Week 8,51.0,363.0,311.0,52.0,Best supportive care,0,0
+42,Week 8,49.0,220.0,169.0,51.0,Best supportive care,0,1
+45,Week 12,84.0,60.0,100.0,-40.0,panit. plus best supportive care,1,0
+45,Week 16,112.0,60.0,100.0,-40.0,panit. plus best supportive care,1,0
+45,Week 24,168.0,80.0,100.0,-20.0,panit. plus best supportive care,1,0
+45,Week 32,224.0,128.0,100.0,28.0,panit. plus best supportive care,1,0
+45,Week 8,56.0,76.0,100.0,-24.0,panit. plus best supportive care,1,0
+48,Week 12,87.0,312.0,246.0,66.0,panit. plus best supportive care,1,1
+48,Week 8,56.0,269.0,246.0,23.0,panit. plus best supportive care,1,1
+51,Week 8,53.0,418.0,333.0,85.0,Best supportive care,0,1
+54,Week 8,59.0,,33.0,,panit. plus best supportive care,1,0
+57,Week 8,53.0,269.0,158.0,111.0,panit. plus best supportive care,1,1
+59,Week 8,51.0,201.0,120.0,81.0,Best supportive care,0,1
+64,Week 8,42.0,211.0,181.0,30.0,panit. plus best supportive care,1,0
+65,Week 8,60.0,214.0,166.0,48.0,panit. plus best supportive care,1,1
+72,Week 8,56.0,224.0,159.0,65.0,Best supportive care,0,1
+73,Week 8,50.0,581.0,441.0,140.0,Best supportive care,0,0
+75,Week 8,63.0,205.0,112.0,93.0,Best supportive care,0,1
+78,Week 8,50.0,342.0,284.0,58.0,Best supportive care,0,0
+79,Week 12,84.0,54.0,47.0,7.0,panit. plus best supportive care,1,1
+79,Week 8,52.0,54.0,47.0,7.0,panit. plus best supportive care,1,1
+90,Week 8,57.0,184.0,120.0,64.0,panit. plus best supportive care,1,1
+91,Week 8,53.0,154.0,108.0,46.0,Best supportive care,0,1
+96,Week 8,56.0,219.0,204.0,15.0,panit. plus best supportive care,1,1
+97,Week 8,57.0,358.0,245.0,113.0,Best supportive care,0,0
+101,Week 8,55.0,103.0,85.0,18.0,panit. plus best supportive care,1,1
+103,Week 8,58.0,393.0,253.0,140.0,Best supportive care,0,1
+106,Week 8,48.0,178.0,163.0,15.0,panit. plus best supportive care,1,1
+114,Week 8,53.0,288.0,288.0,0.0,panit. plus best supportive care,1,1
+116,Week 8,66.0,502.0,427.0,75.0,panit. plus best supportive care,1,1
+121,Week 8,51.0,259.0,260.0,-1.0,panit. plus best supportive care,1,1
+122,Week 12,82.0,41.0,37.0,4.0,Best supportive care,0,0
+123,Week 8,54.0,165.0,153.0,12.0,Best supportive care,0,0
+128,Week 8,52.0,373.0,257.0,116.0,Best supportive care,0,1
+130,Week 8,51.0,370.0,288.0,82.0,panit. plus best supportive care,1,1
+132,Week 12,81.0,46.0,76.0,-30.0,panit. plus best supportive care,1,0
+132,Week 16,108.0,54.0,76.0,-22.0,panit. plus best supportive care,1,0
+132,Week 24,161.0,78.0,76.0,2.0,panit. plus best supportive care,1,0
+132,Week 8,53.0,51.0,76.0,-25.0,panit. plus best supportive care,1,0
+133,Week 8,58.0,299.0,245.0,54.0,Best supportive care,0,0
+142,Week 12,91.0,97.0,74.0,23.0,panit. plus best supportive care,1,1
+142,Week 8,57.0,85.0,74.0,11.0,panit. plus best supportive care,1,1
+143,Week 8,53.0,223.0,210.0,13.0,panit. plus best supportive care,1,0
+143,Week 8,53.0,223.0,210.0,13.0,panit. plus best supportive care,1,0
+143,Week 8,54.0,,210.0,,panit. plus best supportive care,1,0
+143,Week 8,54.0,,210.0,,panit. plus best supportive care,1,0
+144,Week 8,56.0,97.0,73.0,24.0,Best supportive care,0,0
+144,Week 8,56.0,97.0,73.0,24.0,Best supportive care,0,0
+144,Week 8,57.0,97.0,73.0,24.0,Best supportive care,0,0
+144,Week 8,57.0,97.0,73.0,24.0,Best supportive care,0,0
+146,Week 12,85.0,45.0,95.0,-50.0,panit. plus best supportive care,1,0
+146,Week 24,169.0,43.0,95.0,-52.0,panit. plus best supportive care,1,0
+146,Week 32,225.0,42.0,95.0,-53.0,panit. plus best supportive care,1,0
+146,Week 40,281.0,24.0,95.0,-71.0,panit. plus best supportive care,1,0
+146,Week 48,351.0,107.0,95.0,12.0,panit. plus best supportive care,1,0
+146,Week 60,435.0,152.0,95.0,57.0,panit. plus best supportive care,1,0
+146,Week 8,57.0,55.0,95.0,-40.0,panit. plus best supportive care,1,0
+147,Week 8,56.0,332.0,267.0,65.0,Best supportive care,0,0
+151,Week 8,57.0,77.0,44.0,33.0,panit. plus best supportive care,1,0
+152,Week 8,43.0,606.0,472.0,134.0,Best supportive care,0,1
+158,Week 8,57.0,722.0,550.0,172.0,panit. plus best supportive care,1,1
+161,Week 8,50.0,405.0,321.0,84.0,panit. plus best supportive care,1,1
+163,Week 8,51.0,110.0,95.0,15.0,panit. plus best supportive care,1,0
+166,Week 8,51.0,295.0,245.0,50.0,Best supportive care,0,0
+167,Week 8,49.0,336.0,218.0,118.0,panit. plus best supportive care,1,1
+167,Week 8,49.0,336.0,218.0,118.0,panit. plus best supportive care,1,1
+167,Week 8,51.0,336.0,218.0,118.0,panit. plus best supportive care,1,1
+167,Week 8,51.0,336.0,218.0,118.0,panit. plus best supportive care,1,1
+173,Week 8,57.0,187.0,153.0,34.0,panit. plus best supportive care,1,1
+176,Week 8,40.0,110.0,88.0,22.0,panit. plus best supportive care,1,1
+180,Week 8,55.0,276.0,239.0,37.0,Best supportive care,0,0
+182,Week 12,86.0,38.0,40.0,-2.0,panit. plus best supportive care,1,0
+182,Week 16,108.0,34.0,40.0,-6.0,panit. plus best supportive care,1,0
+182,Week 24,164.0,46.0,40.0,6.0,panit. plus best supportive care,1,0
+182,Week 8,54.0,37.0,40.0,-3.0,panit. plus best supportive care,1,0
+187,Week 8,35.0,680.0,605.0,75.0,panit. plus best supportive care,1,0
+188,Week 8,57.0,179.0,74.0,105.0,panit. plus best supportive care,1,0
+191,Week 8,53.0,282.0,182.0,100.0,Best supportive care,0,0
+192,Week 8,53.0,90.0,73.0,17.0,Best supportive care,0,0
+195,Week 8,49.0,582.0,476.0,106.0,panit. plus best supportive care,1,0
+198,Week 12,84.0,133.0,103.0,30.0,panit. plus best supportive care,1,1
+198,Week 16,111.0,150.0,103.0,47.0,panit. plus best supportive care,1,1
+198,Week 8,55.0,119.0,103.0,16.0,panit. plus best supportive care,1,1
+201,Week 12,81.0,35.0,67.0,-32.0,panit. plus best supportive care,1,0
+201,Week 16,108.0,33.0,67.0,-34.0,panit. plus best supportive care,1,0
+201,Week 8,52.0,40.0,67.0,-27.0,panit. plus best supportive care,1,0
+202,Week 12,82.0,115.0,142.0,-27.0,panit. plus best supportive care,1,0
+202,Week 16,110.0,106.0,142.0,-36.0,panit. plus best supportive care,1,0
+202,Week 24,166.0,113.0,142.0,-29.0,panit. plus best supportive care,1,0
+202,Week 8,57.0,106.0,142.0,-36.0,panit. plus best supportive care,1,0
+203,Week 12,89.0,220.0,172.0,48.0,panit. plus best supportive care,1,1
+203,Week 8,61.0,203.0,172.0,31.0,panit. plus best supportive care,1,1
+204,Week 8,49.0,245.0,176.0,69.0,Best supportive care,0,0
+206,Week 8,50.0,324.0,222.0,102.0,Best supportive care,0,0
+207,Week 8,60.0,109.0,73.0,36.0,Best supportive care,0,1
+208,Week 12,72.0,34.0,43.0,-9.0,panit. plus best supportive care,1,0
+208,Week 8,49.0,42.0,43.0,-1.0,panit. plus best supportive care,1,0
+210,Week 12,85.0,179.0,125.0,54.0,panit. plus best supportive care,1,1
+210,Week 8,56.0,159.0,125.0,34.0,panit. plus best supportive care,1,1
+221,Week 8,51.0,64.0,55.0,9.0,panit. plus best supportive care,1,1
+223,Week 8,53.0,88.0,57.0,31.0,panit. plus best supportive care,1,1
+225,Week 8,58.0,221.0,179.0,42.0,Best supportive care,0,0
+226,Week 8,58.0,137.0,90.0,47.0,Best supportive care,0,0
+230,Week 12,93.0,589.0,436.0,153.0,panit. plus best supportive care,1,1
+230,Week 8,65.0,537.0,436.0,101.0,panit. plus best supportive care,1,1
+231,Week 8,47.0,176.0,130.0,46.0,panit. plus best supportive care,1,0
+236,Week 12,85.0,69.0,118.0,-49.0,panit. plus best supportive care,1,0
+236,Week 16,113.0,60.0,118.0,-58.0,panit. plus best supportive care,1,0
+236,Week 24,169.0,76.0,118.0,-42.0,panit. plus best supportive care,1,0
+236,Week 8,62.0,72.0,118.0,-46.0,panit. plus best supportive care,1,0
+237,Week 8,56.0,54.0,58.0,-4.0,panit. plus best supportive care,1,1
+238,Week 8,50.0,181.0,210.0,-29.0,panit. plus best supportive care,1,0
+242,Week 8,52.0,244.0,222.0,22.0,Best supportive care,0,0
+245,Week 8,60.0,196.0,149.0,47.0,Best supportive care,0,0
+246,Week 8,51.0,284.0,206.0,78.0,panit. plus best supportive care,1,0
+247,Week 12,87.0,190.0,192.0,-2.0,panit. plus best supportive care,1,1
+247,Week 8,50.0,202.0,192.0,10.0,panit. plus best supportive care,1,1
+248,Week 8,51.0,72.0,60.0,12.0,panit. plus best supportive care,1,0
+250,Week 8,60.0,104.0,77.0,27.0,Best supportive care,0,0
+255,Week 12,81.0,371.0,350.0,21.0,panit. plus best supportive care,1,0
+255,Week 16,115.0,345.0,350.0,-5.0,panit. plus best supportive care,1,0
+255,Week 24,149.0,349.0,350.0,-1.0,panit. plus best supportive care,1,0
+255,Week 8,57.0,350.0,350.0,0.0,panit. plus best supportive care,1,0
+256,Week 8,38.0,355.0,292.0,63.0,Best supportive care,0,0
+258,Week 8,52.0,315.0,177.0,138.0,panit. plus best supportive care,1,0
+262,Week 8,45.0,210.0,150.0,60.0,panit. plus best supportive care,1,1
+263,Week 8,46.0,301.0,238.0,63.0,panit. plus best supportive care,1,1
+266,Week 8,57.0,206.0,106.0,100.0,panit. plus best supportive care,1,1
+266,Week 8,57.0,206.0,180.0,26.0,panit. plus best supportive care,1,1
+266,Week 8,60.0,131.0,106.0,25.0,panit. plus best supportive care,1,1
+266,Week 8,60.0,131.0,180.0,-49.0,panit. plus best supportive care,1,1
+271,Week 108,796.0,33.0,148.0,-115.0,panit. plus best supportive care,1,0
+271,Week 12,102.0,66.0,148.0,-82.0,panit. plus best supportive care,1,0
+271,Week 120,878.0,35.0,148.0,-113.0,panit. plus best supportive care,1,0
+271,Week 132,957.0,38.0,148.0,-110.0,panit. plus best supportive care,1,0
+271,Week 16,131.0,58.0,148.0,-90.0,panit. plus best supportive care,1,0
+271,Week 24,190.0,58.0,148.0,-90.0,panit. plus best supportive care,1,0
+271,Week 32,246.0,54.0,148.0,-94.0,panit. plus best supportive care,1,0
+271,Week 40,302.0,52.0,148.0,-96.0,panit. plus best supportive care,1,0
+271,Week 48,358.0,58.0,148.0,-90.0,panit. plus best supportive care,1,0
+271,Week 60,450.0,46.0,148.0,-102.0,panit. plus best supportive care,1,0
+271,Week 72,533.0,44.0,148.0,-104.0,panit. plus best supportive care,1,0
+271,Week 8,75.0,61.0,148.0,-87.0,panit. plus best supportive care,1,0
+271,Week 84,612.0,46.0,148.0,-102.0,panit. plus best supportive care,1,0
+271,Week 96,696.0,40.0,148.0,-108.0,panit. plus best supportive care,1,0
+272,Week 8,54.0,147.0,104.0,43.0,Best supportive care,0,1
+278,Week 8,51.0,291.0,209.0,82.0,panit. plus best supportive care,1,0
+280,Week 12,76.0,156.0,220.0,-64.0,panit. plus best supportive care,1,0
+280,Week 12,79.0,156.0,220.0,-64.0,panit. plus best supportive care,1,0
+280,Week 16,107.0,149.0,220.0,-71.0,panit. plus best supportive care,1,0
+280,Week 24,167.0,125.0,220.0,-95.0,panit. plus best supportive care,1,0
+280,Week 32,219.0,117.0,220.0,-103.0,panit. plus best supportive care,1,0
+280,Week 8,51.0,176.0,220.0,-44.0,panit. plus best supportive care,1,0
+284,Week 8,53.0,462.0,352.0,110.0,panit. plus best supportive care,1,0
+286,Week 8,54.0,258.0,233.0,25.0,panit. plus best supportive care,1,0
+287,Week 12,84.0,142.0,115.0,27.0,Best supportive care,0,0
+287,Week 16,110.0,150.0,115.0,35.0,Best supportive care,0,0
+287,Week 24,166.0,147.0,115.0,32.0,Best supportive care,0,0
+287,Week 32,223.0,163.0,115.0,48.0,Best supportive care,0,0
+287,Week 8,55.0,134.0,115.0,19.0,Best supportive care,0,0
+289,Week 8,57.0,216.0,179.0,37.0,Best supportive care,0,0
+292,Week 12,79.0,63.0,75.0,-12.0,panit. plus best supportive care,1,1
+292,Week 16,107.0,67.0,75.0,-8.0,panit. plus best supportive care,1,1
+292,Week 8,51.0,66.0,75.0,-9.0,panit. plus best supportive care,1,1
+296,Week 8,47.0,378.0,279.0,99.0,panit. plus best supportive care,1,1
+298,Week 8,44.0,59.0,53.0,6.0,panit. plus best supportive care,1,1
+298,Week 8,44.0,59.0,53.0,6.0,panit. plus best supportive care,1,1
+298,Week 8,45.0,59.0,53.0,6.0,panit. plus best supportive care,1,1
+298,Week 8,45.0,59.0,53.0,6.0,panit. plus best supportive care,1,1
+299,Week 8,59.0,283.0,252.0,31.0,Best supportive care,0,0
+300,Week 12,85.0,405.0,289.0,116.0,panit. plus best supportive care,1,1
+300,Week 8,57.0,328.0,289.0,39.0,panit. plus best supportive care,1,1
+304,Week 16,113.0,296.0,275.0,21.0,panit. plus best supportive care,1,0
+304,Week 8,56.0,297.0,275.0,22.0,panit. plus best supportive care,1,0
+305,Week 8,48.0,232.0,171.0,61.0,Best supportive care,0,1
+308,Week 12,88.0,194.0,283.0,-89.0,panit. plus best supportive care,1,0
+308,Week 16,115.0,195.0,283.0,-88.0,panit. plus best supportive care,1,0
+308,Week 24,175.0,332.0,283.0,49.0,panit. plus best supportive care,1,0
+308,Week 8,57.0,198.0,283.0,-85.0,panit. plus best supportive care,1,0
+311,Week 8,50.0,52.0,50.0,2.0,panit. plus best supportive care,1,1
+312,Week 8,57.0,323.0,239.0,84.0,Best supportive care,0,0
+315,Week 8,51.0,149.0,142.0,7.0,Best supportive care,0,1
+320,Week 8,43.0,578.0,493.0,85.0,Best supportive care,0,0
+321,Week 8,53.0,198.0,102.0,96.0,panit. plus best supportive care,1,0
+326,Week 8,54.0,331.0,229.0,102.0,Best supportive care,0,1
+327,Week 12,89.0,169.0,158.0,11.0,panit. plus best supportive care,1,0
+327,Week 16,117.0,173.0,158.0,15.0,panit. plus best supportive care,1,0
+327,Week 24,173.0,174.0,158.0,16.0,panit. plus best supportive care,1,0
+327,Week 8,61.0,168.0,158.0,10.0,panit. plus best supportive care,1,0
+339,Week 8,53.0,87.0,64.0,23.0,panit. plus best supportive care,1,1
+340,Week 8,54.0,29.0,23.0,6.0,Best supportive care,0,0
+341,Week 8,46.0,285.0,185.0,100.0,Best supportive care,0,0
+344,Week 8,56.0,380.0,308.0,72.0,Best supportive care,0,1
+356,Week 8,58.0,265.0,234.0,31.0,panit. plus best supportive care,1,1
+357,Week 12,86.0,26.0,27.0,-1.0,Best supportive care,0,0
+357,Week 16,114.0,26.0,27.0,-1.0,Best supportive care,0,0
+357,Week 24,170.0,24.0,27.0,-3.0,Best supportive care,0,0
+357,Week 32,226.0,24.0,27.0,-3.0,Best supportive care,0,0
+357,Week 40,288.0,26.0,27.0,-1.0,Best supportive care,0,0
+357,Week 8,55.0,26.0,27.0,-1.0,Best supportive care,0,0
+360,Week 8,54.0,311.0,189.0,122.0,panit. plus best supportive care,1,0
+362,Week 8,54.0,361.0,279.0,82.0,panit. plus best supportive care,1,0
+363,Week 8,51.0,494.0,471.0,23.0,panit. plus best supportive care,1,1
+370,Week 8,57.0,456.0,264.0,192.0,panit. plus best supportive care,1,0
+373,Week 8,50.0,279.0,215.0,64.0,panit. plus best supportive care,1,0
+375,Week 8,46.0,77.0,92.0,-15.0,panit. plus best supportive care,1,0
+376,Week 8,55.0,61.0,48.0,13.0,Best supportive care,0,0
+384,Week 8,51.0,414.0,321.0,93.0,Best supportive care,0,0
+385,Week 8,55.0,508.0,375.0,133.0,Best supportive care,0,0
+387,Week 8,53.0,285.0,207.0,78.0,Best supportive care,0,0
+389,Week 12,84.0,267.0,296.0,-29.0,panit. plus best supportive care,1,0
+389,Week 16,112.0,293.0,296.0,-3.0,panit. plus best supportive care,1,0
+389,Week 24,158.0,363.0,296.0,67.0,panit. plus best supportive care,1,0
+389,Week 8,56.0,281.0,296.0,-15.0,panit. plus best supportive care,1,0
+393,Week 8,51.0,94.0,66.0,28.0,Best supportive care,0,0
+394,Week 12,79.0,39.0,69.0,-30.0,panit. plus best supportive care,1,0
+394,Week 8,51.0,52.0,69.0,-17.0,panit. plus best supportive care,1,0
+396,Week 12,78.0,292.0,335.0,-43.0,panit. plus best supportive care,1,0
+396,Week 16,115.0,299.0,335.0,-36.0,panit. plus best supportive care,1,0
+396,Week 24,171.0,344.0,335.0,9.0,panit. plus best supportive care,1,0
+396,Week 32,213.0,386.0,335.0,51.0,panit. plus best supportive care,1,0
+396,Week 8,57.0,285.0,335.0,-50.0,panit. plus best supportive care,1,0
+397,Week 12,85.0,207.0,193.0,14.0,Best supportive care,0,0
+397,Week 12,86.0,207.0,193.0,14.0,Best supportive care,0,0
+397,Week 16,113.0,224.0,193.0,31.0,Best supportive care,0,0
+397,Week 16,114.0,224.0,193.0,31.0,Best supportive care,0,0
+397,Week 8,54.0,211.0,193.0,18.0,Best supportive care,0,0
+397,Week 8,57.0,211.0,193.0,18.0,Best supportive care,0,0
+398,Week 12,85.0,177.0,133.0,44.0,panit. plus best supportive care,1,0
+398,Week 8,57.0,155.0,133.0,22.0,panit. plus best supportive care,1,0
+407,Week 8,52.0,348.0,327.0,21.0,panit. plus best supportive care,1,1
+409,Week 12,92.0,91.0,132.0,-41.0,panit. plus best supportive care,1,0
+410,Week 12,87.0,306.0,227.0,79.0,panit. plus best supportive care,1,0
+410,Week 8,56.0,236.0,227.0,9.0,panit. plus best supportive care,1,0
+419,Week 8,55.0,149.0,129.0,20.0,Best supportive care,0,0
+423,Week 8,54.0,82.0,44.0,38.0,panit. plus best supportive care,1,1
+427,Week 12,85.0,91.0,102.0,-11.0,panit. plus best supportive care,1,0
+427,Week 16,113.0,84.0,102.0,-18.0,panit. plus best supportive care,1,0
+427,Week 8,57.0,85.0,102.0,-17.0,panit. plus best supportive care,1,0
+429,Week 8,54.0,143.0,85.0,58.0,panit. plus best supportive care,1,1
+430,Week 12,77.0,165.0,179.0,-14.0,panit. plus best supportive care,1,0
+430,Week 16,108.0,181.0,179.0,2.0,panit. plus best supportive care,1,0
+430,Week 8,51.0,151.0,179.0,-28.0,panit. plus best supportive care,1,0
+436,Week 8,49.0,232.0,192.0,40.0,panit. plus best supportive care,1,1
+440,Week 12,100.0,91.0,54.0,37.0,panit. plus best supportive care,1,0
+440,Week 8,51.0,56.0,54.0,2.0,panit. plus best supportive care,1,0
+443,Week 8,57.0,302.0,175.0,127.0,panit. plus best supportive care,1,1
+445,Week 8,49.0,111.0,96.0,15.0,Best supportive care,0,1
+450,Week 8,51.0,25.0,23.0,2.0,panit. plus best supportive care,1,1
+451,Week 8,57.0,129.0,97.0,32.0,Best supportive care,0,1
+457,Week 8,51.0,342.0,279.0,63.0,Best supportive care,0,1
+458,Week 8,55.0,61.0,57.0,4.0,Best supportive care,0,0
+459,Week 8,56.0,58.0,50.0,8.0,Best supportive care,0,0
+461,Week 8,54.0,308.0,219.0,89.0,panit. plus best supportive care,1,1
