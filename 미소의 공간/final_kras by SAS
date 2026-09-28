@@ -1,0 +1,104 @@
+/*==============================================================
+  bio_kras.sas
+  목적 : adsl_responder 에 BIOMARK 의 BMMTR1 을 붙이고
+         KRAS 평가군(341명)과 분석용 0/1 변수를 만든다
+  입력 : BIOMARK_PDS2019.csv , adsl_responder.csv
+  출력 : final_kras.csv
+==============================================================*/
+
+%let path = /home/u64580723/project;
+
+
+/*--------------------------------------------------------------
+  1. CSV
+--------------------------------------------------------------*/
+proc import datafile="&path./BIOMARK_PDS2019.csv"
+            out=work.bio dbms=csv replace;
+  getnames=yes;
+  guessingrows=max;
+run;
+
+proc import datafile="&path./adsl_responder.csv"
+            out=work.final0 dbms=csv replace;
+  getnames=yes;
+  guessingrows=max;
+run;
+
+
+/*--------------------------------------------------------------
+  2. BIOMARK 중복 제거 — 환자별 마지막 행만 남김
+     원본 394행 / 370명. 24명이 재검사로 2행을 갖는다.
+--------------------------------------------------------------*/
+data work.bio_seq;
+  set work.bio;
+  seq = _n_;
+run;
+
+proc sort data=work.bio_seq;  by SUBJID seq;  run;
+
+data work.bio_clean(keep=SUBJID BMMTR1);
+  set work.bio_seq;
+  by SUBJID;
+  if last.SUBJID;          /* 각 환자의 마지막 행 */
+run;
+
+
+/*--------------------------------------------------------------
+  3. 왼쪽 결합 (how='left')
+     in=a 로 표시하고 if a; 를 쓰면 왼쪽 데이터셋에 있는 환자만
+     남는다. ADSL 에 없는 환자는 버려진다.
+--------------------------------------------------------------*/
+proc sort data=work.final0;  by SUBJID;  run;
+
+data work.final;
+  merge work.final0 (in=a)
+        work.bio_clean (in=b);
+  by SUBJID;
+  if a;
+run;
+
+
+/*--------------------------------------------------------------
+  4. KRAS 평가군 + 파생변수
+--------------------------------------------------------------*/
+data work.final_kras;
+  set work.final;
+  where BMMTR1 in ('Wild-type', 'Mutant');
+
+  KRAS_bin = (BMMTR1 = 'Mutant');
+  TRT_bin  = (index(lowcase(TRT), 'panit') > 0);
+
+  label KRAS_bin = 'KRAS (0=Wild-type, 1=Mutant)'
+        TRT_bin  = '치료군 (0=BSC, 1=Panitumumab)';
+run;
+
+
+/*--------------------------------------------------------------
+  5. 검증 — 기대값과 맞는지 확인한 뒤에 다음 단계로
+--------------------------------------------------------------*/
+proc sql;
+  title '검증 1 — BIOMARK 중복 제거';
+  select count(*)                as 원본행수,
+         count(distinct SUBJID)  as 고유환자수
+  from work.bio;
+  select count(*) as 중복제거후 from work.bio_clean;
+quit;
+
+proc freq data=work.final;
+  tables BMMTR1 / missing;
+  title '검증 2 — 병합 후 BMMTR1 분포';
+run;
+
+proc freq data=work.final_kras;
+  tables KRAS_bin * TRT_bin / norow nocol nopercent;
+  title '검증 3 — 최종 분석 대상 배치';
+run;
+title;
+
+
+/*--------------------------------------------------------------
+  6. CSV 저장
+--------------------------------------------------------------*/
+proc export data=work.final_kras
+            outfile="&path./final_kras.csv" dbms=csv replace;
+run;
