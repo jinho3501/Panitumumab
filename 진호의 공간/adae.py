@@ -25,6 +25,5 @@ final_skin_lm['DTHDYX_LM'] = final_skin_lm['DTHDYX'] - landmark
 # ⑦ 파니투무맙군만
 final_skin_lm = final_skin_lm[final_skin_lm['TRT'].str.contains('panit')]
 
-print(final_skin_lm)
-print(len(final_skin_lm))
-print(final_skin_lm['SEVERE_RASH_LM'].value_counts())
+
+final_skin_lm.to_csv('../csv_file/final_adae.csv', index=False)
